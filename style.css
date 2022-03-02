@@ -1,0 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
+.mystyle:hover{
+    background-color: rgb(213, 252, 215);
+}
